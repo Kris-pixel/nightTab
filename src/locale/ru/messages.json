@@ -36,7 +36,7 @@
     "description": "Label for the settings menu navigation."
   },
   "menuNavThemeSubNavPreset": {
-    "message": "Предустановки",
+    "message": "Предустановленные",
     "description": "Label for the settings menu navigation."
   },
   "menuNavThemeSubNavSaved": {
@@ -76,7 +76,7 @@
     "description": "Label for the settings menu navigation."
   },
   "menuNavThemeSubNavBackground": {
-    "message": "Задний план",
+    "message": "Фон",
     "description": "Label for the settings menu navigation."
   },
   "menuNavThemeSubNavLayout": {
@@ -240,11 +240,11 @@
     "description": "Label for the settings menu navigation."
   },
   "menuContentThemePresetHelperPara1": {
-    "message": "Применение предустановки заменит текущий цвет, акцент, шрифт, стиль, радиус, тень, тень и фон.",
+    "message": "Применение предустановленной темы заменит текущий цвет, акцент, шрифт, стиль, радиус, тень, затенение и фон.",
     "description": "Helper text for preset theme."
   },
   "menuContentThemeSavedHelperPara1": {
-    "message": "При сохранении темы будут записаны текущий цвет, акцент, шрифт, стиль, непрозрачность, радиус, тень, оттенок и фон.",
+    "message": "При сохранении темы будут записаны текущий цвет, акцент, шрифт, стиль, непрозрачность, радиус, тень, затенение и фон.",
     "description": "Helper text for saved themes."
   },
   "menuContentThemeSavedSave": {
@@ -280,7 +280,7 @@
     "description": "Helper text for primary colour."
   },
   "menuContentThemeColorShadeHelperPara3": {
-    "message": "Для более светлого вида переключитесь на стиль освещения, а затем выберите основной цвет. И наоборот для темного взгляда.",
+    "message": "Для более светлого вида переключитесь на светлый режим, а затем выберите основной цвет. И наоборот для темного вида.",
     "description": "Helper text for primary colour."
   },
   "menuContentThemeColorRangePrimaryH": {
@@ -440,7 +440,7 @@
     "description": "Helper text for cycled accent colour."
   },
   "menuContentThemeFontDisplayNameLabel": {
-    "message": "Шрифт дисплея",
+    "message": "Шрифт заголовков",
     "description": "Input for display font name."
   },
   "menuContentThemeFontDisplayNamePlaceholder": {
@@ -456,7 +456,7 @@
     "description": "Link to google fonts."
   },
   "menuContentThemeFontDisplayNameHelperPara2": {
-    "message": "Добавьте название шрифта, как оно отображается в Google Fonts, включая заглавные буквы и пробелы, например: введите «Fredoka One» или «Kanit».",
+    "message": "Укажите название шрифта, как оно отображается в Google Fonts, включая заглавные буквы и пробелы, например: введите «Fredoka One» или «Kanit».",
     "description": "Helper text for display font name."
   },
   "menuContentThemeFontDisplayNameHelperPara3": {
@@ -476,15 +476,15 @@
     "description": "Button for regular weight display font."
   },
   "menuContentThemeFontDisplayWeightBold": {
-    "message": "Смелый",
+    "message": "Жирный",
     "description": "Button for bold weight display font."
   },
   "menuContentThemeFontDisplayWeightHelperPara1": {
-    "message": "Не все шрифты поддерживают любой вес. См. Страницу шрифтов Google, чтобы узнать, какие из них доступны.",
+    "message": "Не все шрифты поддерживают любую толщину. См. Страницу шрифтов Google, чтобы узнать, какая доступна.",
     "description": "Helper text for display font weight."
   },
   "menuContentThemeFontDisplayStyleNormal": {
-    "message": "Нормальный",
+    "message": "Обычный",
     "description": "Radio for normal display font style."
   },
   "menuContentThemeFontDisplayStyleItalic": {
@@ -492,7 +492,7 @@
     "description": "Radio for italic display font style."
   },
   "menuContentThemeFontUiNameLabel": {
-    "message": "Шрифт пользовательского интерфейса",
+    "message": "Шрифт элементов интерфейса",
     "description": "Input for UI font name."
   },
   "menuContentThemeFontUiNamePlaceholder": {
@@ -508,7 +508,7 @@
     "description": "Link to google fonts."
   },
   "menuContentThemeFontUiNameHelperPara2": {
-    "message": "Добавьте название шрифта, как оно отображается в Google Fonts, включая заглавные буквы и пробелы, например: введите «Roboto», «Source Sans Pro» или «Noto Sans».",
+    "message": "Укажите название шрифта, как оно отображается в Google Fonts, включая заглавные буквы и пробелы, например: введите «Roboto», «Source Sans Pro» или «Noto Sans».",
     "description": "Helper text for UI font name."
   },
   "menuContentThemeFontUiNameHelperPara3": {
@@ -528,15 +528,15 @@
     "description": "Button for regular weight UI font."
   },
   "menuContentThemeFontUiWeightBold": {
-    "message": "Смелый",
+    "message": "Жирный",
     "description": "Button for bold weight UI font."
   },
   "menuContentThemeFontUiWeightHelperPara1": {
-    "message": "Не все шрифты поддерживают любой вес. См. Страницу шрифтов Google, чтобы узнать, какие из них доступны.",
+    "message": "Не все шрифты поддерживают любую толщину. См. Страницу шрифтов Google, чтобы узнать, какая доступна.",
     "description": "Helper text for UI font weight."
   },
   "menuContentThemeFontUiStyleNormal": {
-    "message": "Нормальный",
+    "message": "Обычный",
     "description": "Radio for normal UI font style."
   },
   "menuContentThemeFontUiStyleItalic": {
@@ -544,7 +544,7 @@
     "description": "Radio for italic UI font style."
   },
   "menuContentThemeRadius": {
-    "message": "Угловой радиус",
+    "message": "Радиус скругления углов",
     "description": "Range for radius."
   },
   "menuContentThemeShadow": {
@@ -552,11 +552,11 @@
     "description": "Range for shadow."
   },
   "menuContentThemeShadeOpacity": {
-    "message": "Непрозрачность тени",
+    "message": "Непрозрачность затенения",
     "description": "Range for shade opacity."
   },
   "menuContentThemeShadeBlurLabel": {
-    "message": "Размытие тени",
+    "message": "Размытие затенения",
     "description": "Range for shade blur."
   },
   "menuContentThemeShadeBlurHelperPara1": {
@@ -580,11 +580,11 @@
     "description": "Range for toolbar opacity."
   },
   "menuContentThemeOpacityBookmark": {
-    "message": "Закладка",
+    "message": "Закладки",
     "description": "Range for bookmark opacity."
   },
   "menuContentThemeOpacitySearch": {
-    "message": "Поисковая строка",
+    "message": "Строка поиска",
     "description": "Range for search opacity."
   },
   "menuContentThemeOpacityGroupToolbar": {
@@ -592,7 +592,7 @@
     "description": "Range for group toolbar opacity."
   },
   "menuContentThemeBackgroundTypeThemeLabel": {
-    "message": "Фон по теме",
+    "message": "Фон темы",
     "description": "Radio for background type theme."
   },
   "menuContentThemeBackgroundTypeThemeDescription": {
@@ -600,7 +600,7 @@
     "description": "Description for background type theme."
   },
   "menuContentThemeBackgroundTypeAccentLabel": {
-    "message": "Фон от Accent",
+    "message": "Акцентный цвет",
     "description": "Radio for background type accent."
   },
   "menuContentThemeBackgroundTypeAccentDescription": {
@@ -608,7 +608,7 @@
     "description": "Description for background type accent."
   },
   "menuContentThemeBackgroundTypeColor": {
-    "message": "Пользовательский цвет",
+    "message": "Выбрать цвет",
     "description": "Radio for background type colour."
   },
   "menuContentThemeBackgroundTypeGradient": {
@@ -628,19 +628,19 @@
     "description": "Label for background colour."
   },
   "menuContentThemeBackgroundGradientAngle": {
-    "message": "Угол градиента фона",
+    "message": "Угол градиента",
     "description": "Label for background gradient angle."
   },
   "menuContentThemeBackgroundGradientLeft": {
-    "message": "Начало градиента фона",
+    "message": "Начало",
     "description": "Range for background gradient angle left."
   },
   "menuContentThemeBackgroundGradientRight": {
-    "message": "Конец фонового градиента",
+    "message": "Конец",
     "description": "Range for background gradient angle right."
   },
   "menuContentThemeBackgroundImageAlertPara1": {
-    "message": "Локальные образы больше использовать нельзя. Изображения должны быть размещены где-нибудь в Интернете.",
+    "message": "Локальные изображения больше использовать нельзя. Они должны быть размещены где-нибудь в Интернете.",
     "description": "Alert for image background."
   },
   "menuContentThemeBackgroundImageAlertPara2": {
@@ -656,11 +656,11 @@
     "description": "Placeholder for background image URL."
   },
   "menuContentThemeBackgroundImageUrlHelperPara1": {
-    "message": "Добавьте более одного URL-адреса, разделенных пробелами, или в новые строки для случайного фонового изображения при загрузке.",
+    "message": "Добавьте несколько URL-адресов, разделенных пробелами, или каждый с новой строки для получения случайного фонового изображения при загрузке.",
     "description": "Helper text for background image."
   },
   "menuContentThemeBackgroundImageUrlHelperPara2": {
-    "message": "Unsplash можно использовать для случайных изображений, например:",
+    "message": "Можно использовать Unsplash для получения случайных изображений, например:",
     "description": "Helper text for background image."
   },
   "menuContentThemeBackgroundImageUrlHelperPara3": {
@@ -728,7 +728,7 @@
     "description": "Helper text for background video."
   },
   "menuContentThemeBackgroundVideoUrlHelperPara2": {
-    "message": "Добавьте несколько URL-адресов, разделенных пробелами, или добавьте в новые строки для случайного фонового видео при загрузке.",
+    "message": "Добавьте несколько URL-адресов, разделенных пробелами, или каждый с новой строки для получения случайного фонового видео при загрузке.",
     "description": "Helper text for background video."
   },
   "menuContentThemeBackgroundVideoBlur": {
@@ -864,15 +864,15 @@
     "description": "Range for bookmark area background opacity."
   },
   "menuContentThemeBookmarkItemBorderLabel": {
-    "message": "Граница закладки",
+    "message": "Контур закладки",
     "description": "Label for bookmark item border."
   },
   "menuContentThemeBookmarkItemBorderHelperPara1": {
-    "message": "Границу закладки также можно изменить при редактировании отдельных закладок.",
+    "message": "онтур закладки также можно изменить при редактировании отдельных закладок.",
     "description": "Helper text for bookmark border."
   },
   "menuContentThemeBookmarkItemBorderHelperPara2": {
-    "message": "Цвет границы определяется акцентом, который также можно изменить при редактировании отдельных закладок.",
+    "message": "Цвет контура определяется акцентом, который также можно изменить при редактировании отдельных закладок.",
     "description": "Helper text for bookmark border."
   },
   "menuContentThemeBookmarkItemRainbowAdd": {
@@ -2752,7 +2752,7 @@
     "description": "Button to show more colour controls."
   },
   "controlColorMixerSliderH": {
-    "message": "Оттенок",
+    "message": "Затенение",
     "description": "Label for colour control hue."
   },
   "controlColorMixerSliderS": {
